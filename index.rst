@@ -51,7 +51,7 @@ If fubo.tv/connect isn’t working, don’t panic. Try this:
 
 
 =========================================
-Frequently Asked Questions About Vanilla Gift Balance
+Frequently Asked Questions About fubo.tv/connect
 =========================================
 
 Q1. What is fubo.tv/connect used for?
