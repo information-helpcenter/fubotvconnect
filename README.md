@@ -1,1 +1,1 @@
-# fubotvconnect
+# fubo.tv/connect
