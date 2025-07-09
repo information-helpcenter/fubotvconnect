@@ -8,7 +8,7 @@ Activate your Fubo TV in just minutes using fubo.tv/connect. Works on all Smart 
 
 .. image:: activatenow.png
    :alt: fubo.tv/connect
-   :target: https://ww0.us?aHR0cHM6Ly9kaXNjb3ZlcmFjdGl2YXRlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :target: https://pre.im/?VvlkAxV0oqfkeqydVvBRIPePv9IsCbmQJltbowkNEoYQXZtIFQd
 
 ========================================
 Step-by-Step Process to Use fubo.tv/connect for Instant TV Setup
